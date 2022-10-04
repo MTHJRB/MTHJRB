@@ -1,7 +1,7 @@
 ### Greetings 👋!
 
 ✌ I'm MTHJRB, but feel free to call me Matt. I'm an experienced 🎨game designer and 🔨builder on the Roblox platform. 
-I'm also the co-founder of the 🎮game studio called Fmgroup Studios. You can find our work on our 🌐website : fm-group.be .
+I'm also the co-founder of the 🎮game studio called Fmgroup Studios. You can find our work on our 🌐website : https://fm-group.be .
 I also enjoy building mainly fornt-end 👨‍💻projetcs with HTML and CSS, but I also enjoy working with JS from time to time...
 
 Check out my ✨new website✨! It's still in 🛠construction, and what you're currently seeing is just a placeholder, but I'll try to finish is soon. _I hope😳_ Check it out at : https://www.mthjrb.xyz.
