@@ -8,7 +8,7 @@ Check out my ✨new website✨! It's still in 🛠construction, and what you're 
 
 I'm currently trying to improve my JS level🙌.
 
-You can contact me on Discord ROBLOX_MATEMATH#9004 and on Guilded ROBLOX_MATEMATH .
+You can contact me on Discord ROBLOX_MATEMATH#9004 and on Guilded (https://guilded.gg/u/MattH) .
 
 <!--
 **MTHJRB/MTHJRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
